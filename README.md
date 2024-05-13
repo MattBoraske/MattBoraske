@@ -17,7 +17,7 @@ aboutMe = {
     }
     'projects': {
         'The Efficacy of Finetuning LLMs For Interpersonal Conflict Resolution': {
-            'description': 'Thesis completed to fufil my M.S. in Computer Science @ WCUPA.'
+            'description': 'My Thesis for M.S. Computer Science @ WCUPA.'
             'github repo': 'https://github.com/MattBoraske/Reddit_AITA_Conflict_Resolution'
         },
         'Optimizing Restaurant Service In Real-Time Using Deep Reinforcement Learning': {
