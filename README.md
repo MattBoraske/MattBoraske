@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, thanks for stopping by! 👋
 
 ```python
 aboutMe = {
